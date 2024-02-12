@@ -1,0 +1,22 @@
+{
+    "cakes": [
+      {
+        "name": "Chocolate Explosion Cake",
+        "price": 29.95,
+        "manufacturer": "Watson's Treats",
+        "availability": true
+      },
+      {
+        "name": "Fruit Extravaganza Cake",
+        "price": 19.95,
+        "manufacturer": "Watson's Treats",
+        "availability": true
+      },
+      {
+        "name": "TRUBLU4U Cake (Limited Edition)",
+        "price": 24.99,
+        "manufacturer": "Watson's Treats",
+        "availability": false
+      }
+    ]
+  }
